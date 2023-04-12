@@ -12,7 +12,7 @@ This repo is functionality complete — PRs and issues welcome!
 
 Clone the repository
 
-    git clone https://github.com/prog4444/laravel.git
+   git clone https://github.com/prog4444/WebSocked-laravel.git
 
 Switch to the repo folder
 
